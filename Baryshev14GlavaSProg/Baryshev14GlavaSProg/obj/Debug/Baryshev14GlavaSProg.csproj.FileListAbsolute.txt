@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\bin\Debug\Baryshev14GlavaSProg.exe.config
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\bin\Debug\Baryshev14GlavaSProg.exe
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\bin\Debug\Baryshev14GlavaSProg.pdb
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Form1.resources
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Properties.Resources.resources
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.exe
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.pdb
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Form2.resources
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Form3.resources
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Form4.resources
+C:\Users\student\source\repos\Baryshev14GlavaSProg\Baryshev14GlavaSProg\obj\Debug\Baryshev14GlavaSProg.Form5.resources
